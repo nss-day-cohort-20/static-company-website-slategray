@@ -1,0 +1,29 @@
+header {
+	text-align: center;
+}
+
+nav {
+	display: inline;
+}
+
+li a {
+	text-decoration: none;
+}
+
+li {
+	display: inline;
+	text-decoration: underline;
+}
+
+#main {
+	width: 100%;
+}
+
+
+#line {
+	text-align: center;
+}
+
+body {
+	background-color: red;
+}
