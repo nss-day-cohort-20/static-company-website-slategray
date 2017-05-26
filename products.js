@@ -20,6 +20,12 @@ function displayCatalog(){
 	}
 }
 
+function displayCards(productCatalog){
+	for (var i = 0; i < productCatalog.length; i++) {
+		productCatalog[i]
+	}
+}
+
 var productCatalog = [];
 
 createProduct("Bowtie", "A bowtie for a dog", 17.99, "https://img0.etsystatic.com/000/0/5939383/il_fullxfull.238627372.jpg", "dog");

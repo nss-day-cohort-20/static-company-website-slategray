@@ -9,3 +9,18 @@
 	font-size: 16;
 }
 
+.productCard {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    overflow: hidden;
+    border: 1px solid black;
+    max-width: 30%;
+    height: auto;
+    text-align: center;
+}
+
+.cardImage {
+	max-width: 100%;
+	height: auto;
+}
