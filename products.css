@@ -1,0 +1,11 @@
+.productsWindow{
+	border: 3px solid black;
+	height: 30%;
+	margin: 2.5% 2% 2.5% 2%;
+}
+
+.productsWindow > h3 {
+	text-align: center;
+	font-size: 16;
+}
+
