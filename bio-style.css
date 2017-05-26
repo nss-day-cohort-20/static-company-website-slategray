@@ -3,16 +3,19 @@ header {
 }
 
 nav {
-	display: inline;
+	text-align: center;
+	border: 1px solid black;
 }
 
 li a {
+	color: black;
 	text-decoration: none;
 }
 
 li {
 	display: inline;
-	text-decoration: underline;
+	text-decoration: none;
+	padding: 1%;
 }
 
 #main {
@@ -24,6 +27,34 @@ li {
 	text-align: center;
 }
 
-body {
-	background-color: red;
+#first {
+	width: 45%;
+	float: left;
+	margin: auto;
 }
+
+#second {
+	width: 45%;
+	float: right;
+	margin: auto;
+}
+
+img {
+	display: flex;
+	width: 100%;
+}
+
+.text {
+	height: 100px;
+	margin: 10px 0 40px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-weight: lighter;
+}
+
