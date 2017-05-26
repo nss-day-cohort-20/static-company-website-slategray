@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    border: 1px solid black;
+}
+
+li {
+    padding: 1%;
+    display: inline;
+    text-align: center;
+
+}
+li a {
+    color: black;
+    text-decoration: none; 
+
+}
+
+#wrapper {
+    text-align: center;    
+
+}
+
+#homepage {
+    height: auto;
+    width: 100%;
+    
+}
+
+
