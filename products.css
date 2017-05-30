@@ -3,6 +3,7 @@
 	height: 30%;
 	margin: 2.5% 2% 2.5% 2%;
     overflow: hidden;
+    text-align: center;
 }
 
 .productsWindow > h3 {
@@ -11,22 +12,17 @@
 }
 
 .productCard {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
+    /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);*/
+    /*transition: 0.3s;*/
     border-radius: 5px; /* 5px rounded corners */
-    overflow: hidden;
     border: 1px solid black;
-    max-width: 30%;
-    height: auto;
-    text-align: center;
-    float: left;
-    margin: 20px;
-    height: 360px;
+    width: 30%;
+    margin: 1% 1% 1% 1%;
+    display: inline-block;
 }
 
 .cardImage {
 	max-width: 100%;
-	height: auto;
 }
 
 h1, h2 {
@@ -44,10 +40,8 @@ nav {
 }
 
 img {
-    display: flex;
     width: 100%;
-    height: auto;
-    max-height: 100%;
+    height: 350px;
 }
 
 #wrapper {
