@@ -2,6 +2,7 @@
 	border: 3px solid black;
 	height: 30%;
 	margin: 2.5% 2% 2.5% 2%;
+    overflow: hidden;
 }
 
 .productsWindow > h3 {
@@ -18,9 +19,41 @@
     max-width: 30%;
     height: auto;
     text-align: center;
+    float: left;
+    margin: 20px;
+    height: 360px;
 }
 
 .cardImage {
 	max-width: 100%;
 	height: auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav {
+    text-align: center;
+    border: 1px solid black;
+}
+
+img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+#wrapper {
+    display: block;
+}
+
+h3 {
+    clear: both;
 }
