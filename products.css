@@ -51,3 +51,7 @@ img {
 h3 {
     clear: both;
 }
+
+#about {
+    text-align: center;
+}
