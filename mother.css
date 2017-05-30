@@ -1,12 +1,40 @@
-nav {
-	background-color: slategrey;
+header {
+	text-align: center;
 }
 
+ nav {
+ 	text-align: center;
+ 	border: 1px solid black;
+ 	margin: 10px;
+ 	padding: 10px;
+
+ } 
+
+ li {
+ 	padding: 1%;
+ 	display: inline;
+ 	text-align: center;
+ }
+
+
+nav {
+	background-color: slategrey;
+
+}
+
+nav li a {
+	color: #FFAAE8;
+	text-decoration: none;
+}
+
+
+
 a li {
-	color: #FF008B;
+	color: #FF39E8;
 }
 
 body {
 	background-color: #BCFFFB;
-	color: #FF008B;
+	color: #FF39E8;
 }
+
