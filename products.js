@@ -30,7 +30,7 @@ function createCard(product){
 	productCategory = document.getElementById(product.animal + "Products");
 
 	// create a div of class productCard
-	cardElement = document.createElement("div");
+	cardElement = document.createElement("span");
 	cardElement.className = "productCard";
 
 	// create image div for card
