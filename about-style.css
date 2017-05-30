@@ -1,13 +1,6 @@
 
 #wrapper {
 	text-align: center;
-	padding-bottom: 20%;
-
-}
-
-li a {
-	color: black;
-	text-decoration: none;
 }
 
 #mission {
@@ -45,6 +38,7 @@ li a {
 	border-style: solid;
 	border-color: #17522D;
 }
+
 
 
 
