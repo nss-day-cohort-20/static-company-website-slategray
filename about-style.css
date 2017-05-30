@@ -1,40 +1,53 @@
 
+b {
+	font-family: 'Sans Serif';
+}
+
+u {
+	font-family: 'Sans Serif';
+}
+
+i {
+	font-family: 'Sans Serif';
+}
+
 #wrapper {
 	text-align: center;
+	font-size: 3vw;
 }
 
 #mission {
-	margin: 10%;
+
 }
 
 #why-pet-fashion {
-	margin: 10%;
+	margin: 5%;
+
 }
 
 #our-story {
-	margin: 10%;
+
 }
 
 #dog {
+	display: flex;
+	width: 60%;
+	margin: 10% auto 10% auto;
 	border-radius: 10%;
-	height: auto;
-	width: auto;
-	max-height: 200px;
 }
 
 
 #cat {
+	display: flex;
+	width: 60%;
+	margin: 10% auto 10% auto;	
 	border-radius: 50%;
-	height: auto;
-	width: auto;
-	max-height: 200px;
-
 }
 
 #lizard {
-	height: auto;
-	width: auto;
-	max-height: 200px;
+	display: flex;
+	width: 60%;
+	margin: 10% auto 10% auto;
 	border-style: solid;
 	border-color: #17522D;
 }
