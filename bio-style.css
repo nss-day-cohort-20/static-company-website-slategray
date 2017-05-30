@@ -58,3 +58,15 @@ h3 {
 	font-weight: lighter;
 }
 
+@media (max-width: 760px) {
+
+	#first {
+		clear: both;
+		width: 90%;
+	}
+
+	#second {
+		clear: both;
+		width: 90%;
+	}
+}
