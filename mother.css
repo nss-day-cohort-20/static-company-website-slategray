@@ -1,10 +1,11 @@
+
+
 header {
 	text-align: center;
 	font-size: 3.5vw;
 	text-transform: uppercase;
 	text-shadow: 3px 4px 10px #DEFF13;
 	font-family: 'Kumar One', cursive;
-
 }
 
  nav {
@@ -15,6 +16,14 @@ header {
  	padding: 10px;
  	font-family: 'Kumar One', cursive;
  } 
+
+ a:hover {
+ 	color: blue;
+ }
+
+  a.current {
+  	text-decoration: underline;
+  }
 
  li a {
 	text-decoration: none;
@@ -53,3 +62,6 @@ footer {
 	font-size: 2vw;
 	font-family: 'Sans Serif';
 }
+
+
+
