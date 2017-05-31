@@ -45,7 +45,7 @@ img {
 }
 
 .text {
-	height: 100px;
+	height: 150px;
 	margin: 10px 0 40px;
 	text-align: center;
 }
@@ -63,10 +63,12 @@ h3 {
 	#first {
 		clear: both;
 		width: 90%;
+
 	}
 
 	#second {
 		clear: both;
 		width: 90%;
 	}
+
 }
