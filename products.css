@@ -17,7 +17,8 @@
     border-radius: 5px; /* 5px rounded corners */
     border: 1px solid black;
     width: 30%;
-    margin: 1% 1% 1% 1%;
+    height: auto;
+    margin: 2% 1% 4% 1%;
     display: inline-block;
 }
 
